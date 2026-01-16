@@ -1,0 +1,9 @@
+add_subdirectory(display_volume_information)
+
+add_subdirectory(display_volume_paths)
+
+add_subdirectory(enumerate_network_resources)
+
+add_subdirectory(enumerate_network_shares)
+
+add_subdirectory(get_volume_name_for_volume_mount_point)
