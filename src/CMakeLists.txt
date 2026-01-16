@@ -6,4 +6,8 @@ add_subdirectory(enumerate_network_resources)
 
 add_subdirectory(enumerate_network_shares)
 
-add_subdirectory(get_volume_name_for_volume_mount_point)
+add_subdirectory(enumerate_volume_guid_paths)
+
+add_subdirectory(get_volume_name)
+
+add_subdirectory(enumerate_volume_mount_points)
